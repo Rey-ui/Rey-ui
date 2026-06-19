@@ -39,24 +39,25 @@ Currently, I am expanding my knowledge in authentication flows, state management
 ### 🎬 Movie Catalog
 
 React application for discovering and searching movies using TMDB API.
-🔗 Demo: https://movie-catalog-silk.vercel.app/
+  🔗 Demo: https://movie-catalog-silk.vercel.app/
 
 
 ### 🌦 React Weather App
 
 Single-page weather tracking application built with React.
-🔗 Demo: https://react-weather-app-zeta-ebon.vercel.app/
+  🔗 Demo: https://react-weather-app-zeta-ebon.vercel.app/
 
 
 ### 🌍 Weather Track (Vanilla JavaScript)
 
 Weather management application developed with pure JavaScript.
-🔗 Demo: https://rey-ui.github.io/weather-track/
+  🔗 Demo: https://rey-ui.github.io/weather-track/
 
 ### 📝notes-02 (Vanilla JavaScript)
 
 An app for creating your own personal notes with a user-friendly interface, filters, and theme changes.
-🔗 Demo: https://notes-02.vercel.app/
+  🔗 Demo: https://notes-02.vercel.app/
+
 ---
 
 ## 🎓 Education
