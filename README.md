@@ -1,4 +1,4 @@
-# Hi, I'm Andrii 👋
+# Hi, I'm Andrii
 
 ### Frontend Developer
 
@@ -42,7 +42,7 @@ React application for discovering and searching movies using TMDB API.
   🔗 Demo: https://movie-catalog-silk.vercel.app/
 
 
-### 🌦 React Weather App
+###  React Weather App
 
 Single-page weather tracking application built with React.
   🔗 Demo: https://react-weather-app-zeta-ebon.vercel.app/
@@ -53,14 +53,14 @@ Single-page weather tracking application built with React.
 Weather management application developed with pure JavaScript.
   🔗 Demo: https://rey-ui.github.io/weather-track/
 
-### 📝notes-02 (Vanilla JavaScript)
+### 📝 notes-02 (Vanilla JavaScript)
 
 An app for creating your own personal notes with a user-friendly interface, filters, and theme changes.
   🔗 Demo: https://notes-02.vercel.app/
 
 ---
 
-## 🎓 Education
+## Education
 
 **State University of Trade and Economics**
 Bachelor's Degree in Computer Science (122)
@@ -71,7 +71,7 @@ Bachelor's Degree in Computer Science (122)
 
 ---
 
-## 🌍 Languages
+## Languages
 
 * Ukrainian — Native
 * Russian — Native
